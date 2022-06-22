@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655848165 source:c:\users\juinor\onedrive\Área de trabalho\udemy\algoritmos e lógica de programação\cap . 9\exercícios\ratangulo_udemy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
